@@ -6,7 +6,7 @@ import FinancialSection from './components/FinancialSection';
 import UnlockingSection from './components/UnlockingSection';
 import TestimonialSection from './components/TestimonialSection';
 // import FAQSection from './components/FAQSection';
-// import CTASection from './components/CTASection';
+import CTASection from './components/CTASection';
 // import Footer from './components/Footer';
 
 const App = () => {
@@ -19,8 +19,8 @@ const App = () => {
       <UnlockingSection />
       <TestimonialSection />
       {/* <FAQSection /> */}
-      {/* <CTASection />
-      <Footer /> */}
+      <CTASection />
+      {/* <Footer /> */}
     </div>
   );
 };
