@@ -7,7 +7,7 @@ import UnlockingSection from './components/UnlockingSection';
 import TestimonialSection from './components/TestimonialSection';
 // import FAQSection from './components/FAQSection';
 import CTASection from './components/CTASection';
-// import Footer from './components/Footer';
+import Footer from './components/Footer';
 
 const App = () => {
   return (
@@ -20,7 +20,7 @@ const App = () => {
       <TestimonialSection />
       {/* <FAQSection /> */}
       <CTASection />
-      {/* <Footer /> */}
+      <Footer />
     </div>
   );
 };
