@@ -2,7 +2,7 @@ import React from 'react';
 import Header from './components/Header';
 import HeroSection from './components/HeroSection';
 import PartnerSection from './components/PartnerSection';
-// import FinancialSection from './components/FinancialSection';
+import FinancialSection from './components/FinancialSection';
 // import UnlockingSection from './components/UnlockingSection';
 // import TestimonialSection from './components/TestimonialSection';
 // import FAQSection from './components/FAQSection';
@@ -15,8 +15,8 @@ const App = () => {
       <Header />
       <HeroSection />
       <PartnerSection />
-      {/* <FinancialSection />
-      <UnlockingSection />
+      <FinancialSection />
+      {/* <UnlockingSection />
       <TestimonialSection />
       <FAQSection />
       <CTASection />
