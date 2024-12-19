@@ -1,6 +1,6 @@
 # VentSphere
 
-I saw a simple website template on Twitter and decided to recreate it.
+Web Design for a Venture Capital Firm 🪄
 
 > [Figma Link](https://www.figma.com/design/loHYzeEHLYaO3mUJke6tbz/Ventsphere-Design?node-id=75-187&t=iAYGbt531CnDrMx6-0)
 
