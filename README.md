@@ -1,8 +1,11 @@
-# React + Vite
+# VentSphere
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Web Design for a Venture Capital Firm 🪄
 
-Currently, two official plugins are available:
+> [Figma Link](https://www.figma.com/design/loHYzeEHLYaO3mUJke6tbz/Ventsphere-Design?node-id=75-187&t=iAYGbt531CnDrMx6-0)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Design (1)](https://github.com/user-attachments/assets/035e0191-efec-47ef-a00b-1f9d797a5be4)
+
+The design was made by Austine Ifenna and I am not ready to finish it anytime soon
+
+> Made with 💝💖 by Fasakin Henry
